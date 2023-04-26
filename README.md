@@ -148,15 +148,6 @@ Open index.html using liver server extension.
 👤 Aamir Asaram
 
 
-=======
-> This is a solo project, successfully submitted by myself;
-
-👤 Manzi Tresor
-👤 Manzi Tresor
-👤 Zufan Elias
-👤 Aamir Asaram
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
